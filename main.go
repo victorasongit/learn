@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, we are working on versions")
+	fmt.Println("I am not gay...")
 }
 
-func From12() {
-	fmt.Println("I'm from v1.1.0")
+func FromNew() {
+	fmt.Println("I am gay")
 }
